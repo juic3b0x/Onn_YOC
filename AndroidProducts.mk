@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_yoc.mk
+    $(LOCAL_DIR)/twrp_YOC.mk
     
 COMMON_LUNCH_CHOICES := \
-    twrp_yoc-eng
+    twrp_YOC-eng
